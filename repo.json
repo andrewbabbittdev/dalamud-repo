@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Very Crushed",
+        "Name": "Archipendium",
+        "Description": "A plugin for giving hints for your Archipelago games.",
+        "InternalName": "Archipendium",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
+        "IconUrl": "https://raw.githubusercontent.com/andrewbabbittdev/dalamud-repo/main/assets/archipendium.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Archipelago",
+            "Archipendium"
+        ],
+        "DalamudApiLevel": 13,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/andrewbabbittdev/archipendium/releases/download/1.0.0/Archipendium.1.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/andrewbabbittdev/archipendium/releases/download/1.0.0/Archipendium.1.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/andrewbabbittdev/archipendium/releases/download/1.0.0/Archipendium.1.0.0.zip"
+    }
+]
